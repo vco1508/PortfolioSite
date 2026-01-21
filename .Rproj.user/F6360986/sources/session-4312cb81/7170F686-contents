@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>UC Libraries Space Utilization Dashboard</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;max-width:1100px;margin:32px auto;padding:0 16px;line-height:1.6;color:#111;background:#fff}
+    .top{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+    .btn{display:inline-block;padding:10px 14px;border:1px solid #999;border-radius:10px;text-decoration:none;font-weight:600;color:inherit}
+    .muted{color:#555}
+    h1{margin:14px 0 6px}
+    h2{margin-top:26px}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px}
+    img{width:100%;border:1px solid #ddd;border-radius:10px}
+    blockquote{border-left:4px solid #ddd;padding-left:12px;color:#444;margin:16px 0}
+  </style>
+</head>
+<body>
+  <div class="top">
+    <a class="btn" href="/">← Back to Portfolio</a>
+  </div>
+
+  <h1>UC Libraries Space Utilization Dashboard</h1>
+  <p class="muted">A Power BI dashboard combining gate counts, room reservations, and reference activity to surface usage trends and support space optimization decisions.</p>
+
+  <h2>What I built</h2>
+  <ul>
+    <li>Data integration from multiple operational sources</li>
+    <li>KPI design for utilization and trend monitoring</li>
+    <li>Interactive dashboard views for stakeholders (filters, drillthrough patterns)</li>
+  </ul>
+
+  <h2>Impact</h2>
+  <ul>
+    <li>Supported space optimization planning with clearer utilization insight</li>
+    <li>Reduced manual reporting and improved visibility into room usage patterns</li>
+  </ul>
+
+  <h2>Dashboard Preview</h2>
+  <div class="grid">
+    <img src="img/lib1.png" alt="Space Utilization dashboard preview">
+    <img src="img/lib2.png" alt="Space Utilization dashboard preview">
+    <img src="img/lib3.png" alt="Space Utilization dashboard preview">
+  </div>
+
+  <blockquote>
+    Note: This dashboard uses internal operational data and is not published publicly. Preview images are shared instead.
+  </blockquote>
+</body>
+</html>

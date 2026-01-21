@@ -1,0 +1,7 @@
+/* Showcase image sizing override */
+.rad-showcase__bg img {
+  max-width: 60%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
