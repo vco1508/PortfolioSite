@@ -5,7 +5,7 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "Hi, I'm Co."
+  title: "Hello, I'm Co."
   description: "I’m a Business Analytics & Information Systems student at the University of Cincinnati (Honors) with internship experience across <strong>Business Intelligence, Data Operations, IT, Project Management</strong>, and <strong>Business Analysis</strong>."
   button:
     icon: "icon-profile-fill"
@@ -42,7 +42,6 @@ about:
     I’ve worked across <strong>University of Cincinnati</strong>, <strong>Edgewell Personal Care</strong>, <strong>Great American Insurance Group</strong>, and <strong>VNG Corporation</strong>, building analytics products that transform insights and lead decisions from raw data.
     </p>
     <p class="lead">
-    Recently, I automated Google Analytics extraction with <strong>Python + REST APIs</strong>, built a supervised ML model for metadata tagging, and delivered BI dashboards for operational and space optimization.
     I care about <strong>business impact</strong>: reducing manual reporting, improving decision speed, and turning stakeholder “what’s going on?” into something measurable.
     </p>
     <p class="lead">
