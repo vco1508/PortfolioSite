@@ -6,7 +6,7 @@ head:
 showcase:
   enable: true
   title: "Hello, I'm Co."
-  description: "I’m a Business Analytics & Information Systems student at the University of Cincinnati (Honors) with internship experience across <strong>Business Intelligence, Data Operations, IT, Project Management</strong>, and <strong>Business Analysis</strong>."
+  description: "I’m a Business Analytics & Information Systems student at the University of Cincinnati (Honors) with internship experience across <strong>Data Analytics, Business Intelligence, Data Operations, IT, Project Management</strong>, and <strong>Business Analysis</strong>."
   button:
     icon: "icon-profile-fill"
     btnText: "View Resume"
