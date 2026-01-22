@@ -10,7 +10,7 @@ showcase:
   button:
     icon: "icon-profile-fill"
     btnText: "View Resume"
-    URL: "/resume.pdf"
+    URL: "/co_resume.pdf"
 
   socialLinks:
     - icon: "linkedin"
