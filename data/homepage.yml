@@ -110,6 +110,17 @@ client_and_work:
         _2x: "img/works/ra.jpg"
       is_even: true
 
+    - title: "Regork Customer Retention Analysis"
+      description: "R analysis with churn modeling (logistic regression, decision tree, random forest) and business recommendations for retention strategy."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View Project"
+        URL: "/projects/regork/"
+      image:
+        x: "img/works/regork.jpg"
+        _2x: "img/works/regork.jpg"
+      is_even: true
+      
     - title: "UC Libraries Space Utilization Dashboard"
       description: "Power BI dashboard combining gate counts, room reservations, and reference activity to surface usage trends and support space optimization."
       button:
@@ -164,17 +175,6 @@ client_and_work:
         x: "img/works/attention.png"
         _2x: "img/works/attention.png"
       is_even: false
-      
-    - title: "Regork Customer Retention Analysis"
-      description: "R analysis with churn modeling (logistic regression, decision tree, random forest) and business recommendations for retention strategy."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "View Project"
-        URL: "/projects/regork/"
-      image:
-        x: "img/works/regork.jpg"
-        _2x: "img/works/regork.jpg"
-      is_even: true
 
     - title: "Fundraising Simulation"
       description: "Simulation model exploring fundraising performance under uncertainty, with scenario comparisons and decision-focused takeaways."
