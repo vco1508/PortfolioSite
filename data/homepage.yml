@@ -119,7 +119,7 @@ client_and_work:
       image:
         x: "img/works/regork.jpg"
         _2x: "img/works/regork.jpg"
-      is_even: true
+      is_even: false
       
     - title: "UC Libraries Space Utilization Dashboard"
       description: "Power BI dashboard combining gate counts, room reservations, and reference activity to surface usage trends and support space optimization."
@@ -130,7 +130,7 @@ client_and_work:
       image:
         x: "img/works/langsam.jpeg"
         _2x: "img/works/langsam.jpeg"
-      is_even: false
+      is_even: true
 
     - title: "Diabetes Forecast Model"
       description: "Predictive modeling project focused on forecasting outcomes and explaining key drivers with clean visuals and interpretation."
@@ -141,7 +141,7 @@ client_and_work:
       image:
         x: "img/works/dia.png"
         _2x: "img/works/dia.png"
-      is_even: true
+      is_even: false
       
     - title: "UC Website Traffic and Engagement Analysis: Google Analytics Reporting"
       description: "Automated GA data extraction via Python + REST APIs to monitor engagement and traffic, paired with reporting visuals for ongoing insights."
@@ -152,7 +152,7 @@ client_and_work:
       image:
         x: "img/works/ga.jpg"
         _2x: "img/works/ga.jpg"
-      is_even: false
+      is_even: true
       
     - title: "Supply Chain Network Design"
       description: "Optimization and scenario analysis for Martin-Beck Co.'s supply chain network design case."
@@ -163,7 +163,7 @@ client_and_work:
       image:
         x: "img/works/sc.webp"
         _2x: "img/works/sc.webp"
-      is_even: true
+      is_even: false
 
     - title: "Attention Model Analysis"
       description: "Interactive report with visualizations and model interpretation."
@@ -174,7 +174,7 @@ client_and_work:
       image:
         x: "img/works/attention.png"
         _2x: "img/works/attention.png"
-      is_even: false
+      is_even: true
 
     - title: "Fundraising Simulation"
       description: "Simulation model exploring fundraising performance under uncertainty, with scenario comparisons and decision-focused takeaways."
