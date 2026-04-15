@@ -128,8 +128,8 @@ client_and_work:
         btnText: "View Project"
         URL: "/projects/lib/"
       image:
-        x: "img/works/langsam.jpeg"
-        _2x: "img/works/langsam.jpeg"
+        x: "img/works/langsam.jpg"
+        _2x: "img/works/langsam.jpg"
       is_even: true
 
     - title: "Diabetes Forecast Model"
@@ -161,8 +161,8 @@ client_and_work:
         btnText: "View Project"
         URL: "/projects/sc/"
       image:
-        x: "img/works/sc.webp"
-        _2x: "img/works/sc.webp"
+        x: "img/works/sc.jpg"
+        _2x: "img/works/sc.jpg"
       is_even: false
 
     - title: "Attention Model Analysis"
@@ -183,8 +183,8 @@ client_and_work:
         btnText: "View Project"
         URL: "/projects/simulation/"
       image:
-        x: "img/works/simulation.webp"
-        _2x: "img/works/simulation.webp"
+        x: "img/works/simulation.jpg"
+        _2x: "img/works/simulation.jpg"
       is_even: false
 
 
